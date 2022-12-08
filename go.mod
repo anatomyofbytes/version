@@ -1,3 +1,3 @@
-module gitlab.rebrainme.com/golang_users_repos/4260/version
+module github.com/anatomyofbytes/version
 
 go 1.19
